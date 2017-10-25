@@ -1,6 +1,8 @@
 body{
   text-align: center;
   font-family: Helvetica;
+  max-width: 960px;
+  margin:auto;
 }
 
 h1{
